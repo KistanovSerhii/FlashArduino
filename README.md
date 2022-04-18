@@ -25,5 +25,14 @@
 5. Собираем схему подключения для ПРОШИВКИ: Arduino NANO -> Преобразователь напряжения -> ESP8266
 ![image](https://user-images.githubusercontent.com/28355711/163769255-8184dfba-e3a2-4f53-bee6-66bbd7482226.png)
 
-6. Качаем ПО для первичной прошивки модуля ESP8266 ("FLASH_DOWNLOAD_TOOLS_V3.4.4")
-7. 
+6. Подключаем NANO к ПК, и смотрим в менеджере устройств номер COM порта
+![image](https://user-images.githubusercontent.com/28355711/163770098-2c4a6726-9690-4c1f-9aa5-adb90daca301.png)
+
+7. Качаем ПО для первичной прошивки модуля ESP8266 ("FLASH_DOWNLOAD_TOOLS_V3.4.4")
+8. Запускаем ESPFlashDownloadTool.exe и нажимаем на команду "ESP8266 DownloadTool"
+![image](https://user-images.githubusercontent.com/28355711/163770473-b4e345de-449c-44ef-bd03-337db545ae74.png)
+
+9. Заполняем "Download Path Config", выбираем COM к которому подключили схему и т.д. как на скрине
+![image](https://user-images.githubusercontent.com/28355711/163770874-8728563a-9d2e-4837-82cb-9727dc9abcd8.png)
+
+10. 
