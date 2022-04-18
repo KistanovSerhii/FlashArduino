@@ -36,7 +36,8 @@
 ![image](https://user-images.githubusercontent.com/28355711/163770473-b4e345de-449c-44ef-bd03-337db545ae74.png)
 
 9. Заполняем "Download Path Config", выбираем COM к которому подключили схему и т.д. как на скрине
-![image](https://user-images.githubusercontent.com/28355711/163770874-8728563a-9d2e-4837-82cb-9727dc9abcd8.png)
+![image](https://user-images.githubusercontent.com/28355711/163779135-536a40f2-bfa3-46ca-a482-1c806a7a4c7f.png)
+я указал исключительно blank.bin и прошил только данным шаблоном
 
 10. Нажимаем "START" после чего должно произойти подключение по указанному COM порту и выполнение прошивки
 ![image](https://user-images.githubusercontent.com/28355711/163774774-ff783e8f-a575-4eeb-8fa5-eeab975dfaba.png)
