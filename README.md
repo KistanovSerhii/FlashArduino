@@ -85,4 +85,5 @@ ___У меня был случаи когда не шло и это был по�
 ![image](https://user-images.githubusercontent.com/28355711/163789621-f73172a4-f6b5-4821-8751-77a5a6575383.png)
 
 Если замыкаем перемычку (IO0 с GND) Тогда это режим Прошивки Иначе Работы
-![image](https://user-images.githubusercontent.com/28355711/163789860-28c45225-a8b6-4ad8-b59a-d3ea99cc8d4a.png)
+![image](https://user-images.githubusercontent.com/28355711/163790296-5fbb8a1a-d186-4b1f-91d8-e71b28c86368.png)
+
